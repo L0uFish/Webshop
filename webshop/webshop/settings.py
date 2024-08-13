@@ -46,7 +46,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'webshop.wsgi.application'
+WSGI_APPLICATION = 'webshop.webshop.wsgi.application'
 
 DATABASES = {
     'default': {
